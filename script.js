@@ -1,6 +1,6 @@
 // Google Form registration
 // Replace the placeholder with your real Google Form URL.
-const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdYp8WHUECSCmlEJ-OdEsdUuQRrYt4cnmoF0hjnRXp7noTkwg/viewform";
+const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfMxTffC292dtXsc4xUpMB-sK93UjqQMwP50ucqqmm606U-0Q/viewform";
 
 function openRegistration(event){
   event.preventDefault();
